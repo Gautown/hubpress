@@ -1,7 +1,7 @@
 {
   "meta": {
-    "username": "Gautown",
-    "repositoryName": "gautown.github.io/hubblog",
+    "username": "hubblog",
+    "repositoryName": "gautown.github.io",
     "branch": "gh-pages"
   },
   "theme": {
